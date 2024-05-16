@@ -1,2 +1,2 @@
 # wallpapers
-my wallpaper file, what more to it?
+my wallpaper folder, what more to it?
