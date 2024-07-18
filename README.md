@@ -8,9 +8,12 @@ from there, download the repository with:
 ```
 git clone https://github.com/flowersincontrol/wallpapers
 ```
-      Use the google drive link instead, if github is not for you...
-      (https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sharing)
-      
+```
+ OR     Use the google drive link instead, if github is not for you...
+```
+```
+https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sharing
+```      
 ## New Wallpapers
 
 You can update get updated wallpapers from me, as I add and remove wallpapers
