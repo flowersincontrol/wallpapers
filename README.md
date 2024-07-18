@@ -1,2 +1,2 @@
 # wallpapers
-my wallpaper folder, what more to it?
+my wallpaper folder, message me on discord with submissions
