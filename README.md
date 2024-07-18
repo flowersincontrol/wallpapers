@@ -6,7 +6,7 @@ Navigate to the directory or folder you would like wallpapers to be downloaded t
 
 from there, download the repository with:
 ```
-git clone git clone https://github.com/flowersincontrol/wallpapers
+git clone https://github.com/flowersincontrol/wallpapers
 ```
 
 ## New Wallpapers
