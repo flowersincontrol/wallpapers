@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sha
 ```      
 ## New Wallpapers
 
-You can update get updated wallpapers from me, as I add and remove wallpapers
+You can get updated wallpapers from me, as I add and remove wallpapers once in awhile.
 
 ```
 # YOUR DIRECTORY FROM BEFORE #/wallpapers
