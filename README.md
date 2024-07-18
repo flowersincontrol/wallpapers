@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sha
 You can get updated wallpapers from me, as I add and remove wallpapers once in awhile.
 
 ```
-# YOUR DIRECTORY FROM BEFORE #/wallpapers
+!!!!YOUR DIRECTORY FROM BEFORE!!!!/wallpapers
 git pull
 ```
 
