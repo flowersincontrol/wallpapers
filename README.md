@@ -1,6 +1,9 @@
 # flowers' wallpapers ~
 my wallpaper folder, please send any recommendations on discord.
 
+
+
+
 ## Download
 Navigate to the directory or folder you would like wallpapers to be downloaded to.
 
@@ -13,7 +16,10 @@ git clone https://github.com/flowersincontrol/wallpapers
 ```
 ```
 https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sharing
-```      
+```
+
+
+  
 ## New Wallpapers
 
 You can get updated wallpapers from me, as I add and remove wallpapers once in awhile.
@@ -26,6 +32,7 @@ navigate to the wallpaper folder in a file explorer
 ```
 git pull
 ```
+
 
 ## Credits
 
