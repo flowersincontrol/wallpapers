@@ -5,14 +5,14 @@ my wallpaper folder, please send any recommendations on discord.
 
 
 ## Download
-Navigate to the directory or folder you would like wallpapers to be downloaded to.
+Navigate to the directory or folder you would like wallpaper folder downloaded to.
 
 from there, download the repository with:
 ```
 git clone https://github.com/flowersincontrol/wallpapers
 ```
 ```
- OR     Use the google drive link instead, if github is not for you...
+ OR     Use the google drive link instead,
 ```
 ```
 https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sharing
@@ -24,10 +24,10 @@ https://drive.google.com/drive/folders/1xpUSzAX3y7GqoPfcJmrhv3A0rnPjZrGR?usp=sha
 
 You can get updated wallpapers from me, as I add and remove wallpapers once in awhile.
 
-```
-cd !!!!YOUR DIRECTORY FROM BEFORE!!!!/wallpapers
-or
 navigate to the wallpaper folder in a file explorer
+
+```
+cd !YOUR DIRECTORY FROM BEFORE!/wallpaper
 ```
 ```
 git pull
@@ -40,4 +40,8 @@ Special thanks for sourcing the wallpapers included in this collection:
 https://github.com/mylinuxforwork
 
 https://github.com/HPSingh7146
+
+
+
+
 
