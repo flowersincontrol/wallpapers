@@ -1,5 +1,5 @@
 # flowers' wallpapers ~
-my wallpaper folder, please send any recommendations on discord.
+please send any recommendations on discord.
 
 
 
