@@ -5,7 +5,7 @@ my wallpaper folder, please send any recommendations on discord.
 
 
 ## Download
-Navigate to the directory or folder you would like wallpaper folder downloaded to.
+Navigate to the directory or folder you would like the wallpapers folder downloaded to.
 
 from there, download the repository with:
 ```
@@ -27,7 +27,7 @@ You can get updated wallpapers from me, as I add and remove wallpapers once in a
 navigate to the wallpaper folder in a file explorer
 
 ```
-cd !YOUR DIRECTORY FROM BEFORE!/wallpaper
+cd !YOUR DIRECTORY FROM BEFORE!/wallpapers
 ```
 ```
 git pull
