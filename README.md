@@ -12,6 +12,9 @@ from there, download the repository with:
 git clone https://github.com/flowersincontrol/wallpapers
 ```
 ```
+git clone git@github.com:flowersincontrol/wallpapers.git
+```
+```
  OR     Use the google drive link instead,
 ```
 ```
